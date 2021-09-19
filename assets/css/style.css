@@ -78,7 +78,7 @@ button {
   display: block;
   border: none;
   margin: 0 auto;
-  background-color: #006837;
+  background-color: #b5bed4;
   color: #fff;
   width: 287px;
   height: 55px;
@@ -175,7 +175,7 @@ button {
   content: '';
   width: calc(100% - 60px);
   height: 7px;
-  background-color: #fcee21;
+  background-color: #512315;
   position: absolute;
   top: -10px;
   left: 30px;
@@ -198,7 +198,7 @@ button {
           transform: rotate(90deg);
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  fill: #6699cc;
+  fill: #542059;
   width: 12px;
   height: 24px;
 }
@@ -239,15 +239,15 @@ button {
 * Color
 *********************/
 .bg-color--keycolor {
-  background-color: #6699cc;
+  background-color: #f1aba2;
 }
 
 .bg-color--subcolor {
-  background-color: #6699cc;
+  background-color: #33fff;
 }
 
 .bg-color--gray {
-  background-color: #6699cc;
+  background-color: #ccc66;
 }
 
 /*********************
@@ -284,7 +284,7 @@ button {
 }
 
 .section-title--keycolorlight {
-  background-color: #6699cc;
+  background-color: #99ffcc;
 }
 
 .section-title--keycolorlight .section-title__stage {
@@ -292,7 +292,7 @@ button {
 }
 
 .section-title--keycolor {
-  background-color: #6699cc;
+  background-color: #ffff99;
 }
 
 .section-title--story {
@@ -307,7 +307,7 @@ button {
   line-height: 1.06667;
   margin: 0;
   padding-bottom: 15px;
-  color: #6699cc;
+  color: #9999cc;
 }
 
 .section-title--border::after {
@@ -336,7 +336,7 @@ button {
   display: block;
   text-decoration: none;
   cursor: pointer;
-  background-color: #6699cc;
+  background-color: #ffcc00;
   color: #fff;
   font-size: 24px;
   line-height: 1.54167;
@@ -441,7 +441,7 @@ button {
 }
 
 .err-message {
-  color: #6699cc;
+  color: #ff99cc;
   font-size: 18px;
   text-align: center;
 }
@@ -453,7 +453,7 @@ button {
 }
 
 .clear-message {
-  background-color: #6699cc;
+  background-color: #00cc00;
   padding: 30px 30px 60px;
   position: relative;
 }
@@ -462,7 +462,7 @@ button {
   position: relative;
   display: block;
   text-align: center;
-  color: #c0c0c0;
+  color: #0099cc;
   font-size: 30px;
   padding-bottom: 10px;
   margin-bottom: 35px;
